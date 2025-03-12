@@ -59,5 +59,5 @@ The **Employee Management System (EMS)** is a backend application built using **
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please reach out via email at **your.email@example.com** or open an issue on GitHub.
+For any inquiries, please reach out via email at **jeevithae30k@gmail.com** or open an issue on GitHub.
 
